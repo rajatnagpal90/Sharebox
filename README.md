@@ -9,7 +9,7 @@ Usage:
 -----
 - This application offers it's user to store their files on the cloud with added features to have a better file storing experience.
 
-Technologies: 
+Tehnologies: 
 -------------
 - Java, MongoDB, HTML5, JS
 
